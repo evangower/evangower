@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋🏻</h2>
+### Hi 👋🏻 
 
 My name is Evan, and I'm a student currenlty taking the Google Digital Marketing and E-commerce class on Coursera and developing my skills in R programming.
 
