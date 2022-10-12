@@ -1,6 +1,6 @@
 ### Hi 👋🏻 
 
-My name is Evan, and I'm a student currenlty taking the Google Digital Marketing and E-commerce class on Coursera and developing my skills in R programming.
+My name is Evan, and I'm a student currently taking the Google Digital Marketing and E-commerce class on Coursera and developing my skills in R programming.
 
 I am very detail oriented and passionate about diving into numbers, figuring out what insights come from the data at hand using spreadsheets and R. 
 
