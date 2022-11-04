@@ -1,4 +1,4 @@
-### Hi 👋🏻 
+![hello-there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47oyyv9j7o2bj63h28fcgpci2x8ai758et5r7ni0gy&rid=giphy.gif&ct=g)
 
 My name is Evan, and I'm a student currently taking the Google Digital Marketing and E-commerce class on Coursera and developing my skills in R programming.
 
