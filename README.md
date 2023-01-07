@@ -1,8 +1,13 @@
 ![hello-there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47oyyv9j7o2bj63h28fcgpci2x8ai758et5r7ni0gy&rid=giphy.gif&ct=g)
 
-My name is Evan, and I'm a student currently taking the Google Digital Marketing and E-commerce class on Coursera and developing my skills in R programming.
+My name is Evan, and I'm a student currently developing my skills in Python, SQL, and R programming.
 
-I am very detail oriented and passionate about diving into numbers, figuring out what insights come from the data at hand using spreadsheets and R. 
+I am very detail oriented and passionate about diving into numbers, figuring out what insights come from the data at hand using spreadsheets and R.
+
+Courses I've completed included:
+- Google's Data Analytics Professional Certificate on Coursera
+- Google's Digital Marketing & E-commerce Professional Certificate on Coursera
+- Spartanburg Community College Accounting Fundementals
 
 I also enjoy photography, world history, and researching the stock market.
 
