@@ -8,7 +8,7 @@ Courses I've completed:
 - Google's Data Analytics Professional Certificate on Coursera
 - Google's Digital Marketing & E-commerce Professional Certificate on Coursera
 - Spartanburg Community College Accounting Fundementals
-- Accounting and Financial Statement Analysis on Udemy
+- Accounting & Financial Statement Analysis on Udemy
 
 I also enjoy photography, world history, and researching the stock market.
 
