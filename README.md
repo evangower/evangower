@@ -4,10 +4,11 @@ My name is Evan, and I'm a student currently developing my skills in Python, SQL
 
 I am very detail oriented and passionate about diving into numbers, figuring out what insights come from the data at hand using spreadsheets and R.
 
-Courses I've completed included:
+Courses I've completed:
 - Google's Data Analytics Professional Certificate on Coursera
 - Google's Digital Marketing & E-commerce Professional Certificate on Coursera
 - Spartanburg Community College Accounting Fundementals
+- Accounting and Financial Statement Analysis on Udemy
 
 I also enjoy photography, world history, and researching the stock market.
 
