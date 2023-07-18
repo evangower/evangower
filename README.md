@@ -1,16 +1,10 @@
 ![hello-there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47oyyv9j7o2bj63h28fcgpci2x8ai758et5r7ni0gy&rid=giphy.gif&ct=g)
 
-My name is Evan, and I'm a student currently developing my skills in Python, SQL, and R programming.
+My name is Evan, I'm a student developing my skills in data analytics. l’m passionate about diving into numbers, figuring out what insights come from the data at hand. 
 
-I am very detail oriented and passionate about diving into numbers, figuring out what insights come from the data at hand using spreadsheets and R.
+I’m learning about the process of Exploratory Data Analysis, programming languages Python and R, and presenting insights to stakeholders.
 
-Courses I've completed:
-- Google's Data Analytics Professional Certificate on Coursera
-- Google's Digital Marketing & E-commerce Professional Certificate on Coursera
-- Spartanburg Community College Accounting Fundementals
-- Accounting & Financial Statement Analysis on Udemy
-
-I also enjoy photography, world history, and researching the stock market.
+I also enjoy photography, soccer, world history, and researching the stock market.
 
 
 <h3 align="left"> Connect with me:</h3>
